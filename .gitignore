@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+.DS_Store
+stock_repos.csv
+stock_repos.json
+code_search_repos.csv
