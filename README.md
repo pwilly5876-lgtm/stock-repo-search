@@ -1,5 +1,7 @@
 # Stock Repo Search
 
+**New to Python or the terminal?** Start with [BEGINNERS.md](BEGINNERS.md).
+
 Search GitHub for repositories that analyze stocks — and for source code that actually imports the libraries those analyses use.
 
 The app has three pieces:
